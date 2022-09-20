@@ -1,1 +1,1 @@
-# The-Vault: A Statistical Analys of Major League Baseball
+# The-Vault: A Statistical Analysis of Major League Baseball
